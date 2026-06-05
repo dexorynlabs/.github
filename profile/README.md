@@ -1,8 +1,6 @@
 <div align="center">
 
 # DexorynLabs
-**High-performance crypto trading systems & provably fair on-chain casinos**
-
 Production-grade automation and decentralized apps — built for speed, security, and real-world results.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
