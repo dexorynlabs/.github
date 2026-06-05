@@ -1,7 +1,7 @@
 <div align="center">
 
 # DexorynLabs
-Production-grade automation and decentralized apps — built for speed, security, and real-world results.
+Production-grade automation and decentralized apps - built for speed, security, and real-world results.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
