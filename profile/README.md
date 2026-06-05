@@ -17,24 +17,24 @@ Production-grade automation and decentralized apps - built for speed, security, 
 <tr>
 <td width="50%" valign="top">
 
-**🤖 Trading Bots** — Polymarket copy-trading, arbitrage, snipers, market-making, and AI-driven prediction strategies for 24/7 live markets.
+**🤖 Trading Bots** - Polymarket copy-trading, arbitrage, snipers, market-making, and AI-driven prediction strategies for 24/7 live markets.
 
 </td>
 <td width="50%" valign="top">
 
-**🎰 On-Chain Casinos** — Provably fair platforms with verifiable randomness, instant payouts, and enterprise-grade security on Solana and high-throughput chains.
+**🎰 On-Chain Casinos** - Provably fair platforms with verifiable randomness, instant payouts, and enterprise-grade security on Solana and high-throughput chains.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**⛓️ DeFi & Web3** — Custom smart contracts, liquidity automation, AI trading agents, and scalable blockchain infrastructure.
+**⛓️ DeFi & Web3** - Custom smart contracts, liquidity automation, AI trading agents, and scalable blockchain infrastructure.
 
 </td>
 <td width="50%" valign="top">
 
-**⚡ High-Performance Dev** — Rust backends, real-time systems, and full-stack Web3 apps built for low latency and reliability.
+**⚡ High-Performance Dev** - Rust backends, real-time systems, and full-stack Web3 apps built for low latency and reliability.
 
 </td>
 </tr>
