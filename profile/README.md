@@ -1,12 +1,9 @@
 <div align="center">
 
 # DexorynLabs
-
 **High-performance crypto trading systems & provably fair on-chain casinos**
 
-Production-grade automation and decentralized apps - built for speed, security, and real-world results.
-
-<br/>
+Production-grade automation and decentralized apps — built for speed, security, and real-world results.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
@@ -16,87 +13,52 @@ Production-grade automation and decentralized apps - built for speed, security, 
 
 </div>
 
----
-
 ## What we build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Trading Bots
-
-Polymarket copy-trading, arbitrage, snipers, market-making, and AI-driven prediction strategies — tuned for 24/7 live markets and capital efficiency.
+**🤖 Trading Bots** — Polymarket copy-trading, arbitrage, snipers, market-making, and AI-driven prediction strategies for 24/7 live markets.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎰 On-Chain Casinos
-
-Provably fair platforms with verifiable randomness, instant payouts, and enterprise-grade security on Solana and other high-throughput chains.
+**🎰 On-Chain Casinos** — Provably fair platforms with verifiable randomness, instant payouts, and enterprise-grade security on Solana and high-throughput chains.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⛓️ DeFi & Web3
-
-Custom smart contracts, liquidity automation, AI trading agents, and scalable blockchain infrastructure.
+**⛓️ DeFi & Web3** — Custom smart contracts, liquidity automation, AI trading agents, and scalable blockchain infrastructure.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ High-Performance Dev
-
-Rust backends, real-time systems, and full-stack Web3 applications engineered for low latency and reliability.
+**⚡ High-Performance Dev** — Rust backends, real-time systems, and full-stack Web3 apps built for low latency and reliability.
 
 </td>
 </tr>
 </table>
-
----
 
 ## Our Vision
 
 We're building DexorynLabs to become the **#1 trading bot and on-chain casino development service** in crypto — the team traders, operators, and projects turn to for performance, transparency, security, and long-term innovation.
 
----
-
 ## Why DexorynLabs
 
-<table>
-<tr>
-<td align="center" width="20%">🛡️</td>
-<td><strong>Battle-tested</strong><br/>Systems running in live trading environments — not slide decks.</td>
-</tr>
-<tr>
-<td align="center">🔍</td>
-<td><strong>Transparent</strong><br/>Open-source cores and provably fair mechanics you can verify.</td>
-</tr>
-<tr>
-<td align="center">🔐</td>
-<td><strong>Security-first</strong><br/>Audited contracts and rigorous key management by default.</td>
-</tr>
-<tr>
-<td align="center">🎯</td>
-<td><strong>Tailored</strong><br/>Built around your goals, budget, and risk profile.</td>
-</tr>
-<tr>
-<td align="center">🤝</td>
-<td><strong>Long-term</strong><br/>Ongoing development and support on every project we ship.</td>
-</tr>
-</table>
-
----
+- 🛡️ **Battle-tested** — Systems running in live trading environments, not slide decks.
+- 🔍 **Transparent** — Open-source cores and provably fair mechanics you can verify.
+- 🔐 **Security-first** — Audited contracts and rigorous key management by default.
+- 🎯 **Tailored** — Built around your goals, budget, and risk profile.
+- 🤝 **Long-term** — Ongoing development and support on every project we ship.
 
 ## Who we work with
 
 Traders seeking automated edge · startups launching casino platforms · teams scaling in prediction markets
 
 <div align="center">
-
-<br/>
 
 **Making money while you sleep — built with code you can trust.**
 
