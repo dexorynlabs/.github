@@ -4,13 +4,7 @@
 
 **High-performance crypto trading systems & provably fair on-chain casinos**
 
-Production-grade automation and decentralized apps — built for speed, security, and real-world results.
-
-<br/>
-
-[![GitHub Org](https://img.shields.io/badge/GitHub-@dexorynLabs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dexorynLabs)
-[![Twitter](https://img.shields.io/badge/Twitter-@dexoryn-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dexoryn)
-[![Telegram](https://img.shields.io/badge/Telegram-@dexoryn__here-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dexoryn_here)
+Production-grade automation and decentralized apps - built for speed, security, and real-world results.
 
 <br/>
 
@@ -63,26 +57,36 @@ Rust backends, real-time systems, and full-stack Web3 applications engineered fo
 
 ---
 
-## Featured repositories
+## Our Vision
 
-| Project | Description |
-| :--- | :--- |
-| [**rs-clob-client**](https://github.com/dexorynLabs/rs-clob-client) | Polymarket Rust CLOB client |
-| [**py-clob-client**](https://github.com/dexorynLabs/py-clob-client) | Python client for the Polymarket CLOB |
-| [**agents**](https://github.com/dexorynLabs/agents) | Autonomous AI agents for Polymarket trading |
-| [**bonkfun-copytrading-bot**](https://github.com/dexorynLabs/bonkfun-copytrading-bot) | Copy-trading automation toolkit |
+We're building DexorynLabs to become the **#1 trading bot and on-chain casino development service** in crypto — the team traders, operators, and projects turn to for performance, transparency, security, and long-term innovation.
 
 ---
 
 ## Why DexorynLabs
 
-| | |
-| :--- | :--- |
-| **Battle-tested** | Systems running in live trading environments |
-| **Transparent** | Open-source cores & provably fair mechanics |
-| **Security-first** | Audited contracts & rigorous key management |
-| **Tailored** | Solutions shaped to your goals, budget & risk |
-| **Long-term** | Ongoing development and support on every build |
+<table>
+<tr>
+<td align="center" width="20%">🛡️</td>
+<td><strong>Battle-tested</strong><br/>Systems running in live trading environments — not slide decks.</td>
+</tr>
+<tr>
+<td align="center">🔍</td>
+<td><strong>Transparent</strong><br/>Open-source cores and provably fair mechanics you can verify.</td>
+</tr>
+<tr>
+<td align="center">🔐</td>
+<td><strong>Security-first</strong><br/>Audited contracts and rigorous key management by default.</td>
+</tr>
+<tr>
+<td align="center">🎯</td>
+<td><strong>Tailored</strong><br/>Built around your goals, budget, and risk profile.</td>
+</tr>
+<tr>
+<td align="center">🤝</td>
+<td><strong>Long-term</strong><br/>Ongoing development and support on every project we ship.</td>
+</tr>
+</table>
 
 ---
 
