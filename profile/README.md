@@ -48,11 +48,11 @@ We're building DexorynLabs to become the **#1 trading bot and on-chain casino de
 
 ## Why DexorynLabs
 
-- 🛡️ **Battle-tested** — Systems running in live trading environments, not slide decks.
-- 🔍 **Transparent** — Open-source cores and provably fair mechanics you can verify.
-- 🔐 **Security-first** — Audited contracts and rigorous key management by default.
-- 🎯 **Tailored** — Built around your goals, budget, and risk profile.
-- 🤝 **Long-term** — Ongoing development and support on every project we ship.
+- 🛡️ **Battle-tested** - Systems running in live trading environments, not slide decks.
+- 🔍 **Transparent** - Open-source cores and provably fair mechanics you can verify.
+- 🔐 **Security-first** - Audited contracts and rigorous key management by default.
+- 🎯 **Tailored** - Built around your goals, budget, and risk profile.
+- 🤝 **Long-term** - Ongoing development and support on every project we ship.
 
 ## Who we work with
 
